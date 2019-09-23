@@ -9,5 +9,6 @@
     "test": "node index.js"
     "start": "node index.js"
   },
-  "author": "jymun"
+  "author": "",
+  "license": "ISC"
 }
